@@ -19,9 +19,9 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-07T21:35:58.85",
+      "created": "2020-12-07T21:36:15.213",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-07T21:35:58.85",
+      "updated": "2020-12-07T21:36:15.213",
       "updatedBy": "unknown",
       "completions": []
     },
@@ -32,6 +32,6 @@
     "user": "E+78EuK1CJJcHrV4zskDUuUIBHHfuchpuJ2/7ZcRag8iY13Ca6wj+YWzH2Ha7DThRDHSbNJ/TC5eWwV9I/CSys83llvkXR8E30BiOd6Xp2u6Bu5aw6HfDnkQmiszfF0KP4U3mprq77YJ68SY8hy3DrV6haq4Gu0vL9ntFUq59jEDwmcd5kB4AujBvF5h9Y4+znNhMT0lrO8GrDLMw22TKZoaDOTrtt5f77m8I/eIVEASp7eFhjB9O85pW9AoE+t+g0F47aUmHIU8uCsQFt/d07cjGmFtBqdmx46W3E5+GdCfuMAvd3T7zeMd3ji0+iyJupPRX93owwhyj+acbWZ8Ow==",
     "password": "wgp6Va+g6nsH52gjs4v60guduX/4LZV9u6RUgJtzWH//qcjC3ZYGSQ12HWFdj7yCEOEW5dygj31C8mzdinxk016n7QRgMARWcytfz/V919ft+f/XMw3LKc79mlqYy9ajIHlBpqVpXA3bGovWw5hB0DyHcLFr8y2FsEjnVdBHBIaZrX4/fvPquRX3wLoC3gagB19VoO537Mme8YT/sv4IKM1Xww/+WypL35GGi5ZPuEwWLtnm6P72NHgEvRnp0MIOUIC9Jd6sFPBeS7vczPrlN8wEzYyc2d8SWae3XoKeJq+fcyAyqhbD8LeELmCbLIiCOSdIVU3Mr6JJFcpfLrXn/A==",
     "integration": true,
-    "status": "failed to insert entry: invalid object specified - test.json"
+    "status": ""
   }
 }
