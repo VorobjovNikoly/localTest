@@ -11,10 +11,10 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-15T12:58:01.137",
+      "created": "2020-12-15T13:06:33.45",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-15T12:58:01.137",
-      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-15T13:06:33.45",
+      "updatedBy": "unknown",
       "completions": []
     },
     "alias": ""
@@ -23,6 +23,7 @@
     "url": "https://github.com/VorobjovNikoly/localTest.git",
     "user": "wbWwWUWgxpvRpU2EHLdYPFIjc5I7yibYkUXDZZ//D8Ubjd77Cf+0k3HmDL9K5u5jASDdUM18KSsoahiO+Ip7qn/mDawAgNNgIUmjIJ+9rQwC9mTbKgHIKipl1VO/5rNz9kSOE6YjzokanmTYdLf7hlA78hcqvAOV8OTheZmErQmYIsiZPyxUVYHSwqFMd1IAenU/eNdvUes61ZMRnRniFQlymQenJ1PuqkGZkbmQf4KQ32XzLX1SfAMs4+Wa3Yo+eLlfhZVt35vKOXDRFVG2visv5iBFOn6zIanMI9A+VBTN+LfDKHCsrP65N9XG8JPWgWDhtVidkVyGD9lHGtNAmA==",
     "password": "WJ7pKRgpS47oS/hAB/8QNXrD8tcMOkTZzhxhttz7M7kg/KpuTPZgyM/qXiJm4DMvxi7PrnAJ6ANUpszK3kM6Nn8nf9iT1A4V55yyj0knks2q2nU6XzwpRY/RChfG4THdYjX5797+gwdwqsEgnySsmmN4QduXk1WeVXvKsktdpHWlwGH+iMPTrmJm0L/NNcgZSj5HYoAr4TvUKPNlBfSjjGURqXNjVoKB1grY6x8q/Eyc4lnA8e3vOYqSCQZ0fBLnU13bDM2Ls2rQquq7Oj1mG3PBFwSNm0jtv5Z89TPt2cvCSVFmzkWhC0JWx8Cs3IWfDQcd7zi8Tj/UGv2NfiYPTg==",
-    "integration": false
+    "integration": false,
+    "status": ""
   }
 }
