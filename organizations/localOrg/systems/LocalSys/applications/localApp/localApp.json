@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "id": "bf025b94-abf2-498d-8ce2-8bc385e079c8",
+    "name": "localApp"
+  },
+  "object": {
+    "parent": {
+      "id": "e5f55a70-26ed-4d8f-9e10-e5864c1b9f07",
+      "name": "/organizations/localOrg/systems/LocalSys"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Application",
+    "properties": [],
+    "history": {
+      "created": "2020-12-15T12:55:51.077",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-15T12:55:51.077",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

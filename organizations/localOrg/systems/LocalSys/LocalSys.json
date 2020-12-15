@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "id": "e5f55a70-26ed-4d8f-9e10-e5864c1b9f07",
+    "name": "LocalSys"
+  },
+  "object": {
+    "parent": {
+      "id": "af77404a-bb85-48eb-986e-aab80a1d5f05",
+      "name": "/organizations/localOrg"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "System",
+    "properties": [],
+    "history": {
+      "created": "2020-12-15T12:55:36.057",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-15T12:55:36.057",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

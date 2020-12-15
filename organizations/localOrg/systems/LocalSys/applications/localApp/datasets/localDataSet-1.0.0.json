@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "id": "26329b64-910f-4a49-865b-7e6c271924fb",
+    "name": "localDataSet"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 0
+  },
+  "object": {
+    "parent": {
+      "id": "bf025b94-abf2-498d-8ce2-8bc385e079c8",
+      "name": "/organizations/localOrg/systems/LocalSys/applications/localApp"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Resource",
+    "properties": [],
+    "history": {
+      "created": "2020-12-15T12:56:02.11",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-15T12:56:41.14",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2020-12-15T12:56:27.5",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/localOrg/systems/LocalSys/applications/localApp/issues/5392/messages/2"
+        },
+        {
+          "status": "Approved",
+          "completed": "2020-12-15T12:56:41.06",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/localOrg/systems/LocalSys/applications/localApp/issues/5392/messages/2"
+        }
+      ]
+    },
+    "lastApprovedVersion": {
+      "major": 1,
+      "minor": 0,
+      "revision": 0
+    }
+  },
+  "external": true,
+  "structure": {
+    "fields": [
+      {
+        "identity": {
+          "id": "b89c01b5-2d62-4328-b0e2-d290974dcdfc",
+          "name": "localData",
+          "description": ""
+        },
+        "order": 1,
+        "usage": "Property",
+        "count": 1,
+        "type": "String",
+        "size": 0,
+        "optional": true,
+        "value": "",
+        "format": "",
+        "access": 255,
+        "privacy": "low"
+      }
+    ],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}
