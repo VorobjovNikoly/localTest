@@ -11,9 +11,9 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2020-12-16T06:15:22.297",
+      "created": "2020-12-16T06:27:39.417",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-16T06:15:22.297",
+      "updated": "2020-12-16T06:27:39.417",
       "updatedBy": "m.vorobiov@spd-ukraine.com",
       "completions": []
     },
@@ -21,9 +21,9 @@
   },
   "integration": {
     "url": "https://github.com/VorobjovNikoly/localTest.git",
-    "user": "lIHskIBkm2XaoB9lOVlmGDQkWz9Yq6r9F6F0n885ZH5OR2mwqDAePQYEuzITSvRpd6WuSRYxcZlD412NugQ4cOhmb6PxC6vpI84SgBdWNoeqZbQvdH7G2Jfw3aEhyp4jRY1glGenHRuBsO550PX1sfN1YcCCXhMCPkU6GmanLZtPJKru+AUGfXFLVMtbuZNFkFi6Go0uCxW598LyO5jKSMdvZXkoGW7rTXbRhVn9Rnw+99JiRUJSpORJCwjHioivVSkZkvCRAw8OTsDLWoFroLyANJ+VR6GF+rs9floqTNlc1n7k+kfTcH1Bq9K7TM3Z9rlsZHrBKK8ZrxzfH9lOJA==",
+    "user": "lYTLvg3b35pYp44m4UrDTlhl39RToLMGN+7nJrriDado+/J/Rku+eiNXurWwu71++a5ht3n1i/Zj/aCNOst2rVtFdBuYENuUR2JX2nZmgZPgLsCdYMBXEiZdgXHJjC5NAmgNWnclUWi6TYgZof5fIoZZiJHAH4yO7lfRE/PnB6yWcVSwNvOgiAAUXaUtouejOr4Hon+L38EBdvF2VL5ARMJY/dJjrtGG2dhYgoirsIQeyxFMXJzkc/h57kKtum5fP+1ivdJdwjlZ5z8vPupIJhbA+BLRfyIKGKFz73UVPMtQ4+tC2+0JjuWqNDxHzxu3qmpLYl067H3wXwrQ3Nqvgw==",
     "password": "Xmtwy+wa1a2pzY58KuStu845o6qN5n+cspUNgNkd1BC8ssvQVTmjXgatR1FjpSqjzmRPHA8Pr4i+QMQe8hAhtwYY9o3+6EyILmEsO4MJG9hmMkW7wBu/ZR2gZ7iLtomh0lb0dh+xFMMd0cY3UaSm8YI7/r12T4tZEPWcCkehoO3g+DduVSgc7j6VmJ+B3hXgV2pbZsG9JAuRoOXyWxri8IFBpHKx2a1OglSceX4ukziG+UySIBUKZBzJX8HG95/UnVgUxovZatoFk/K+MiV+YkHCjSJvx8hiECsmQ2f7cuOtNfpYSY4DHeuNoQIAj0F3bUey/EDJRmHM/qU49jGEJw==",
     "integration": true,
-    "status": ""
+    "status": "too many redirects or authentication replays"
   }
 }
