@@ -5,7 +5,7 @@
   },
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "revision": 0
   },
   "object": {
@@ -13,29 +13,25 @@
       "id": "8e174d81-9460-4c4c-889f-582be9065800",
       "name": "/organizations/EmptyGitTest/systems/test3/applications/app"
     },
+    "picture": "",
     "tags": [],
     "documents": [],
     "type": "DataSet",
     "usage": "Resource",
+    "access": "External",
     "properties": [],
+    "elements": [],
     "history": {
-      "created": "2021-01-29T06:14:51.553",
+      "created": "2021-01-29T06:32:20.083",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2021-01-29T06:25:36.417",
-      "updatedBy": "unknown",
-      "mirrored": "2021-01-29T06:23:17.393",
+      "updated": "2021-01-29T06:32:39.66",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
       "completions": [
         {
           "status": "Finalized",
-          "completed": "2021-01-29T06:22:03.967",
+          "completed": "2021-01-29T06:32:39.09",
           "completedBy": "m.vorobiov@spd-ukraine.com",
-          "completedByMessage": "/organizations/EmptyGitTest/systems/test3/applications/app/issues/5477/messages/2"
-        },
-        {
-          "status": "Approved",
-          "completed": "2021-01-29T06:22:19.31",
-          "completedBy": "m.vorobiov@spd-ukraine.com",
-          "completedByMessage": "/organizations/EmptyGitTest/systems/test3/applications/app/issues/5477/messages/2"
+          "completedByMessage": "/organizations/EmptyGitTest/systems/test3/applications/app/issues/5480/messages/1"
         }
       ]
     },
@@ -43,7 +39,8 @@
       "major": 1,
       "minor": 0,
       "revision": 2
-    }
+    },
+    "alias": ""
   },
   "external": true,
   "structure": {
