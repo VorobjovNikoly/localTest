@@ -1,0 +1,28 @@
+{
+  "identity": {
+    "id": "72a9042b-e22c-4682-a98a-e114a245a858",
+    "name": "11",
+    "description": "1"
+  },
+  "object": {
+    "parent": {
+      "id": "96d022fb-5e5d-4d90-b4bf-e1feb14f6faf",
+      "name": "/organizations/TestOrgGitMiriring"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "System",
+    "usage": "Generic",
+    "access": "Public",
+    "properties": [],
+    "history": {
+      "created": "2021-06-07T09:29:16.477",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-06-07T09:29:16.477",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    },
+    "alias": ""
+  },
+  "locale": ""
+}
