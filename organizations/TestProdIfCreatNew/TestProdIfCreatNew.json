@@ -11,9 +11,9 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2021-06-09T16:37:54.643",
+      "created": "2021-06-09T16:38:06.04",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2021-06-09T16:37:54.643",
+      "updated": "2021-06-09T16:38:06.04",
       "updatedBy": "unknown",
       "completions": []
     },
@@ -24,6 +24,6 @@
     "user": "aqGUXX7Od8mazKQArsIgtr98pSUaf5cN9ohKW635HKNA2cYDGyFNykvzamYsZTGwuWzZq6ZgytCUh3uPiQT1iH6O867sSKd6I/NYlTsaatYiZ2B2APcYx2YwsmDIeXjb452S7YIIAZ5woCHdoRbSrtFc2+MOvHX9q18TISorWS/+OkFmiwS8buH3mAXVA4xWQLJg/teBW9hDi9KEZDw6pn1BAh+R6ejqjZLR1E5YL0YglBjv5Rv+D7o3YgdPOpb2JxXAEzfy4PWirleQbK0IUVx3kQN0na7gTNUsR5J5DU/Ir4LU9vDImYzMSyTX4uPlud53/hIeLj/C0Aa4sV7Hzg==",
     "password": "eOIKQBT/0+2BIFHamxChZXLGZjjk0Wvat3qeStuWXOygTz+5XPD4CWIe0wqGF+Ncq2QbPrqn/lkjO3KPCAzLewY+3QeKd/3ovGnYf0jHdOOg+DpX0//vbYZM4FA5Y3vkvsvrkkb7nkhvnyn3F3tSMPN61UT7NSZ6AZLB7XdRfQoSX/o/Ennpt+52PQLSBjnD0jjCeEXkEE3NfacNarvJFgV3nmxlZwf1Azlb+LlU7rVTTf106rmaJ5metoIV0Yy6Lu8GE9It6hIYe3uE9ATDoMQhVr5EbEVfcgHxOTBE85deu4FmLBRvQSChWlJ2nxlegzSv0mblJSryDixDiQGzuQ==",
     "integration": false,
-    "status": "request failed with status code: 400"
+    "status": ""
   }
 }
