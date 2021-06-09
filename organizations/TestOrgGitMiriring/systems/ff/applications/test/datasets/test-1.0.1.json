@@ -1,0 +1,62 @@
+{
+  "identity": {
+    "id": "aac783a9-9529-4ff6-a677-8d314cf43ba4",
+    "name": "test"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 1
+  },
+  "object": {
+    "parent": {
+      "id": "476c56fa-b811-4984-bf39-243a28a99a6b",
+      "name": "/organizations/TestOrgGitMiriring/systems/ff/applications/test"
+    },
+    "picture": "",
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Resource",
+    "access": "External",
+    "properties": [],
+    "elements": [],
+    "history": {
+      "created": "2021-06-03T14:04:09.787",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-06-09T16:18:56.39",
+      "updatedBy": "unknown",
+      "mirrored": "2021-06-09T16:18:50.027",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2021-06-03T14:04:21.107",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestOrgGitMiriring/systems/ff/applications/test/issues/6808/messages/2"
+        },
+        {
+          "status": "Approved",
+          "completed": "2021-06-03T14:04:32.027",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestOrgGitMiriring/systems/ff/applications/test/issues/6808/messages/2"
+        }
+      ]
+    },
+    "lastApprovedVersion": {
+      "major": 1,
+      "minor": 0,
+      "revision": 1
+    },
+    "alias": ""
+  },
+  "external": true,
+  "structure": {
+    "fields": [],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}
