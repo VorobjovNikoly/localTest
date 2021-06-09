@@ -1,0 +1,79 @@
+{
+  "identity": {
+    "id": "22274f8a-0919-4070-b214-b6d977bbef13",
+    "name": "EnumTest"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 2
+  },
+  "object": {
+    "parent": {
+      "id": "6458ae8c-b1a5-4dcf-9f0c-73f4e46326ef",
+      "name": "/organizations/TestOrgGitMiriring/systems/11/applications/w"
+    },
+    "picture": "",
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Enum",
+    "access": "External",
+    "properties": [],
+    "elements": [],
+    "history": {
+      "created": "2021-06-03T13:58:26.48",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-06-07T09:30:59.18",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2021-06-03T13:58:55.667",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestOrgGitMiriring/systems/11/applications/w/issues/6807/messages/2"
+        },
+        {
+          "status": "Approved",
+          "completed": "2021-06-03T13:59:05.787",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestOrgGitMiriring/systems/11/applications/w/issues/6807/messages/2"
+        }
+      ]
+    },
+    "lastApprovedVersion": {
+      "major": 1,
+      "minor": 0,
+      "revision": 2
+    },
+    "alias": ""
+  },
+  "external": true,
+  "structure": {
+    "fields": [
+      {
+        "identity": {
+          "id": "75018def-313c-4fdc-bacf-7affc30dcf7b",
+          "name": "test",
+          "description": "test"
+        },
+        "order": 1,
+        "usage": "Property",
+        "count": 1,
+        "type": "String",
+        "size": 0,
+        "optional": true,
+        "value": "",
+        "format": "",
+        "access": 255,
+        "privacy": "low"
+      }
+    ],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}
