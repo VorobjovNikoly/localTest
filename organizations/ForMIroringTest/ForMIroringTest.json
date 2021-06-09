@@ -1,0 +1,29 @@
+{
+  "identity": {
+    "id": "9255c017-66b3-4f2f-ad17-2776606a292f",
+    "name": "ForMIroringTest"
+  },
+  "object": {
+    "tags": [],
+    "documents": [],
+    "type": "Org",
+    "usage": "Department",
+    "access": "External",
+    "properties": [],
+    "history": {
+      "created": "2021-06-09T15:03:53.883",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-06-09T15:03:53.883",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    },
+    "alias": ""
+  },
+  "integration": {
+    "url": "https://github.com/VorobjovNikoly/localTest.git",
+    "user": "D3exqB46Iue8e1UDe6W+/PR+eZFYLh8qUyOyEj7wn7EaSFrC1TB3v2wVkAU2skv2zqFIdYP9QmJCbTJMRZifqWmISYSyJrNd+ltbhM4+V+qfA31yx/hfW9nn6X8wPPiqxjIYVYXyxIMxERL9b3srA0lIg1tDG5kT9OFUNXLV8e2N5i8qMEIwv9NmHR2ws7bTacbPiLe5EFxiJyS6O5ltTz6eg/uZ1DuV35DwUCYk0CKoBUbVQgM7Z257QnhusRjlrxtCGRUjWLl8czsXQ1+ZyQAaEkv0x0y2pb0GyAOyEnJCu/3bXPh5QUFrgmGpD+9yBujKSHL8Voe5nwrE2OuaoQ==",
+    "password": "p4HkeVwrLn7zRWeRgdFg5Oe2QPqdDk1SgS/cjQjmSkOmUUU2e1frmFqcxG0/Rx6aAyBh5O9VcZjmKw0lw6mDSlh39CKR/yox2XhMAFln9KEGV7h157m1HF59bA6R8DAHqFLFSSmmrilIwWJa0OjMI7eBDUCB3ZtVW7lnIlMGKZRVEw76yxBFC2dmBl7NkrjmDAzYvA1d0zW8ea+Fp0KcPKsVtZZZQbbjm9MeFIZhdXSAm+x36uVelHlqpwJDGnOZW4Bez0+sSB5EMVdj5XpEXrZPyR+Lijk2TGPaGDZd4F1Nib3WJs+Mf9cf4z52VoxvBlgbunK1G9bXxsmQI7EZyA==",
+    "integration": true,
+    "status": "request failed with status code: 400"
+  }
+}
